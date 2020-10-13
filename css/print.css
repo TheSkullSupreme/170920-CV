@@ -1,0 +1,48 @@
+/* STYLE GENERAL */
+
+body {font-family: 'Open Sans', sans-serif;}
+
+.high {min-height: 30vh;}
+
+.fond {background: white;}
+
+.bdright {border-right: 3px solid;}
+
+.text-left {text-align: left;}
+
+.text-color {color: white;}
+
+.text-center {text-align: center;}
+
+.black-f {color: black;}
+
+.list ul li{list-style-type:none;
+			font-weight:500;}
+
+.black {background: black;}
+
+h2 {text-align: center;
+	font-weight: 400;
+	color: white;}
+
+p{font-size: 1.2em;}
+
+blockquote{font-style: italic;}
+
+/* HEADER */
+
+h1 {font-size: 3.5em;
+	color: black;}
+
+/* LINKS */
+
+a{color: black;}
+a:visited{color: black;}
+a:hover{color: black;}
+
+/* PRINT */
+
+.print{margin-top: 100px;}
+
+.pddg{padding-bottom: 50px;
+	  padding-top: 50px;}
